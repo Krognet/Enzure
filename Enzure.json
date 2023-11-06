@@ -7,7 +7,7 @@
         "IconURL": "https://i.imgur.com/LQIt8DK.png",
         "DisableIconText": false,
         "IconPosition": 3,
-        "IconTextColor": 0,
+        "IconTextColor": 7,
         "OpenOnStart": true,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
@@ -20,7 +20,7 @@
           "title1": "Welcome",
           "text1":"Hi and Welcome to our small but humble community!\n\n\nI hope you like it here and enjoy your stay.",
           "title2": "Rules/Rates",
-          "text2": "- Keep chat English/Swedish\n\n- Be respectful to other users both here and on Discord\n\n- Please listen to mods\n\n- Dont be a dick to people you dont know personally\n\n- Dont be racist or, homophobic or sexist keep that to your friend group.\n\n- If you see anything or notice anything dont hesitate to contact either Krognet or Shaull on discord, there is a link below",
+          "text2": "- Keep chat English/Swedish\n\n- Be respectful to other users both here and on Discord\n\n- Listen to mods\n\n- Dont be a dick to people you dont know personally\n\n- Dont be racist or, homophobic or sexist keep that to your friend group.\n\n- If you see anything or notice anything dont hesitate to contact either Krognet or Shaull on discord, there is a link below",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       }
