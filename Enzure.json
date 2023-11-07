@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 2,
-          "buttontext": "Enzure",
+          "buttontext": "<TextStyle.Red>Enzure</>",
           "title1": "Welcome",
           "text1":"Hi and Welcome to our small but humble community!\n\n\nI hope you like it here and enjoy your stay.\n\n\nIf you want to keep in touch with us or want any info regarding the server you got a Discord link right below\n\n\n\n\n\n- Active ingame Admins right now=Krognet,Shaull\n\n\nIf you cant close out of this window try tabbing out of the game to free your mouse and then click the X",
           "title2": "Rules/Rates",
@@ -27,7 +27,7 @@
       {
         "tab2": {
           "layout": 4,
-          "buttontext": "Broodmother Lysrix",
+          "buttontext": "<TextStyle.Orange>Broodmother Lysrix</>",
           "title1": "Dinos and Artifacts",
           "title2": "<TextStyle.Green>Gamma</>",
           "title3": "<TextStyle.Blue>Beta</>",
@@ -42,7 +42,7 @@
       {
         "tab3": {
           "layout": 4,
-          "buttontext": "Megapithecus",
+          "buttontext": "<TextStyle.Orange>Megapithecus</>",
           "title1": "Dinos and Artifacts",
           "title2": "<TextStyle.Green>Gamma</>",
           "title3": "<TextStyle.Blue>Beta</>",
@@ -57,7 +57,7 @@
       {
        "tab4": {
           "layout": 4,
-          "buttontext": "Dragon",
+          "buttontext": "<TextStyle.Orange>Dragon</>",
           "title1": "Dinos and Artifacts",
           "title2": "<TextStyle.Green>Gamma</>",
           "title3": "<TextStyle.Blue>Beta</>",
@@ -73,14 +73,14 @@
     "links": [
       {
         "link1": {
-          "text": "Discord",
+          "text": "<TextStyle.Yellow>Discord</>",
           "url": "https://discord.gg/N2z5XH55"
         }
       },
       {
         "link2": {
-          "text": "Ark Wiki",
-          "url": "https://ark.fandom.com/wiki/ARK_Survival_Evolved_Wiki"
+          "text": "<TextStyle.Green>Ark Wiki</>",
+          "url": "https://ark.wiki.gg/wiki/ARK_Wiki"
         }
       }
     ]
