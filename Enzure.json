@@ -43,14 +43,14 @@
         "tab3": {
           "layout": 4,
           "buttontext": "Megapithecus",
-          "title1": "Dinos to use",
-          "title2": "Gamma",
-          "title3": "Beta",
-          "title4": "Alpha",
-          "text1": "This text goes into the top left box",
-          "text2": "This text goes into the top right box",
-          "text3": "This text goes into the bottom left box",
-          "text4": "This text goes into the bottom right box",
+          "title1": "Dinos and Artifacts",
+          "title2": "<TextStyle.Green>Gamma</>",
+          "title3": "<TextStyle.Blue>Beta</>",
+          "title4": "<TextStyle.Red>Alpha</>",
+          "text1": "Best Choice:\n\n1 Yuturannus and 19 Rexes\n\nArtifacts:\n\nArtifact of the Brute, Cords: 53.6/10.5\nArtifact of the Devourer, Cords: 10.8/90.4\nArtifact of the Pack, Cords: 68.2/56.2",
+          "text2": "Req:\n\nOnly Artifacts\n\n\nRewards:\n\nTek Replicator\nTek Doors\nTek Wall\nTek Ceiling\nTek Gauntlets.",
+          "text3": "Req:\n\nArtifacts\n5 Megalania Toxin\n5 Megalodon Tooth\n5 Spinosaurus Sail\n5 Therizino Claws\n5 Thylacoleo Hook-Claw\n\n\nRewards:\n\nGamma rewards\nTek Gate                                  Tek Gateway            Tek Rifle\nTek Generator",
+          "text4": "Req:\n\nArtifacts\n10 Megalania Toxin\n10 Megalodon Tooth\n10 Spinosaurus Sail\n10 Therizino Claws\n10 Thylacoleo Hook-Claw\n\nRewards:\n\nBeta rewards\nTek Grenade          Rex Tek Saddle           Large Tek Wall",
           "imageurl": "https://i.imgur.com/9YRTgZl.png"
           }
       },
