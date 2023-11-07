@@ -28,12 +28,12 @@
         "tab2": {
           "layout": 4,
           "buttontext": "Broodmother Lysrix",
-          "title1": "Dinos to use",
+          "title1": "Dinos and Artifacts",
           "title2": "Gamma",
           "title3": "Beta",
           "title4": "Alpha",
-          "text1": "Good Choice:\n\n1 Yuturannus and 19 Rexes\n\n\nBest Choice:\n\n1 Yuturannus 19 Megatheriums to make use of the Bug buff they can get",
-          "text2": "Req:            Rewards",
+          "text1": "Good Choice:\n\n1 Yuturannus and 19 Rexes\n\n\nBest Choice:\n\n1 Yuturannus 19 Megatheriums to make use of the Bug buff they can get\n\n\nArtifacts:\n\nArtifact of the Clever, Cords: 41.5/47.1\nArtifact of the Hunter, Cords: 80.2/52.5\nArtifact of the Massive, Cords: 74.5/91",
+          "text2": "Req:\n\nOnly Artifacts\n\n\nRewards",
           "text3": "This text goes into the bottom left box",
           "text4": "This text goes into the bottom right box",
           "imageurl": "https://i.imgur.com/xsrZ0nf.png"
