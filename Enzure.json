@@ -22,6 +22,51 @@
           "title2": "Rules/Rates",
           "text2": "- Keep chat English/Swedish\n\n- Be respectful to other users both here and on Discord\n\n- Listen to mods\n\n- Dont be a dick to people you dont know personally\n\n- Dont be racist or, homophobic or sexist keep that to your friend group.\n\n- If you see anything or notice anything dont hesitate to contact either \n  Krognet or Shaull on discord, there is a link below\n\n- Please take down traps when you are done\n\n- Dont block any caves or explorer notes\n\n\n- WildDinoLvl=150\n\n- Xp=2\n\n- Harvest=3\n\n- Taming=4\n\n- BabyMature=14\n\n- EggHatch=10\n\n- StackSize=20",
           "imageurl": "https://i.imgur.com/mzGMwKq.jpeg"
+           }
+      },
+      {
+        "tab2": {
+          "layout": 4,
+          "buttontext": "Broodmother Lysrix",
+          "title1": "Dinos to use",
+          "title2": "Top right title",
+          "title3": "bottom left title",
+          "title4": "bottom right title",
+          "text1": "This text goes into the top left box",
+          "text2": "This text goes into the top right box",
+          "text3": "This text goes into the bottom left box",
+          "text4": "This text goes into the bottom right box",
+          "imageurl": "https://i.imgur.com/xsrZ0nf.png"
+          }
+      },
+      {
+        "tab3": {
+          "layout": 4,
+          "buttontext": "Megapithecus",
+          "title1": "Dinos to use",
+          "title2": "Top right title",
+          "title3": "bottom left title",
+          "title4": "bottom right title",
+          "text1": "This text goes into the top left box",
+          "text2": "This text goes into the top right box",
+          "text3": "This text goes into the bottom left box",
+          "text4": "This text goes into the bottom right box",
+          "imageurl": "https://i.imgur.com/9YRTgZl.png"
+          }
+      },
+      {
+       "tab4": {
+          "layout": 4,
+          "buttontext": "Dragon",
+          "title1": "Dinos to use",
+          "title2": "Top right title",
+          "title3": "bottom left title",
+          "title4": "bottom right title",
+          "text1": "This text goes into the top left box",
+          "text2": "This text goes into the top right box",
+          "text3": "This text goes into the bottom left box",
+          "text4": "This text goes into the bottom right box",
+          "imageurl": "https://i.imgur.com/IIRSYu5.png"
         }
       }
     ],
