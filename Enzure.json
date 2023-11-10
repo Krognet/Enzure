@@ -28,7 +28,7 @@
         "tab2": {
           "layout": 4,
           "buttontext": "<TextStyle.Orange>Broodmother Lysrix</>",
-          "title1": "Dinos and Artifacts",
+          "title1": "<TextStyle.Yellow>Dinos and Artifacts</>",
           "title2": "<TextStyle.Green>Gamma</>",
           "title3": "<TextStyle.Blue>Beta</>",
           "title4": "<TextStyle.Red>Alpha</>",
