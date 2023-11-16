@@ -81,6 +81,12 @@
         "link2": {
           "text": "<TextStyle.Green>Ark Wiki</>",
           "url": "https://ark.wiki.gg/wiki/ARK_Wiki"
+         }
+      },
+      {
+        "link2": {
+          "text": "<TextStyle.Blue>Addition Wiki</>",
+          "url": "https://ark.wiki.gg/wiki/Mod:ARK_Additions"
         }
       }
     ]
