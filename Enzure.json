@@ -77,10 +77,25 @@
           "title2": "<TextStyle.Yellow>Shinobi</>",
           "title3": "<TextStyle.Yellow>Fathomless</>",
           "title4": "<TextStyle.Yellow>Endurant</>",
-          "text1": "Watch out for the Enraged, or hunt them down.\n These dinos have all the dangers of an Alpha, but worse. They cannot be tamed, and they will be tough to conquer\n but if you can do it, you (and your chibi) will reap the rewards.\n (Bigger, stronger, tougher, faster. Enraged kills drop special loot, and kills will count towards chibi XP).",
-          "text2": "Shinobi dinos are especially sneaky.\n Predators will have to get very close before they will even notice the Shinobi, and if you are careful, you can ride right around a threat without being spotted.\n (Significantly reduced aggro range for wild dinos. That’s reduced— not none at all! Be careful!)",
-          "text3": "Fathomless dinos are blue, with nothing else to give away their special strength.\n Perhaps one of the most useful of the Shiny set, these dinos are bigger on the inside— the weight of anything in their inventory is reduced by 80%.",
-          "text4": "Endurant dinos may sport any Shiny colour, but that’s not all.\n These dinos can sprint indefinitely without losing stamina. (Attacks and any special abilities that would normally drain stamina will still do so.)",
+          "text1": "Watch out for the Enraged, or hunt them down.\nThese dinos have all the dangers of an Alpha, but worse. They cannot be tamed, and they will be tough to conquer\nbut if you can do it, you (and your chibi) will reap the rewards.\n(Bigger, stronger, tougher, faster. Enraged kills drop special loot, and kills will count towards chibi XP).",
+          "text2": "Shinobi dinos are especially sneaky.\nPredators will have to get very close before they will even notice the Shinobi, and if you are careful, you can ride right around a threat without being spotted.\n(Significantly reduced aggro range for wild dinos. That’s reduced— not none at all! Be careful!)",
+          "text3": "Fathomless dinos are blue, with nothing else to give away their special strength.\nPerhaps one of the most useful of the Shiny set, these dinos are bigger on the inside— the weight of anything in their inventory is reduced by 80%.",
+          "text4": "Endurant dinos may sport any Shiny colour, but that’s not all.\nThese dinos can sprint indefinitely without losing stamina.\n(Attacks and any special abilities that would normally drain stamina will still do so.)",
+          "imageurl": "https://i.imgur.com/tZbCDJ7.png"
+          }
+      },
+      {
+       "tab4": {
+          "layout": 4,
+          "buttontext": "<TextStyle.Green>Shiny Dinos</>",
+          "title1": "<TextStyle.Yellow>Burning</>",
+          "title2": "",
+          "title3": "",
+          "title4": "",
+          "text1": "The bodies of Burning dinos are covered in constantly burning flames.\nThese animals are immune to damage from fire and lava, and can, if provoked, let loose with an explosion of fire that damages everything around it.\n(AoE special attack; default Melee key / Ctrl)",
+          "text2": "More will come",
+          "text3": "More will come",
+          "text4": "More will come",
           "imageurl": "https://i.imgur.com/tZbCDJ7.png"
         }
       }
