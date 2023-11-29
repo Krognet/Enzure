@@ -67,6 +67,21 @@
           "text3": "<TextStyle.Orange>Req</>:\nArtifacts\n5 Allosaurus Brain,   5 Tyrannosaurus Arm\n5 Basilosaurus Blubber,   5 Yutyrannus Lungs\n5 Tusoteuthis Tentacle\n1 Giganotosaurus Heart\n<TextStyle.Orange>Rewards</>:     220 Element,  Dragon Flag,  Dragon Trophy\nGamma rewards\nTek Fence Foundation           Tek Doors            Tek Forcefield\nTek Dedicated Storage          Tek Roof              Tek Transmitter\nVacuum Compartment",
           "text4": "<TextStyle.Orange>Req</>:\nArtifacts\n10 Allosaurus Brain\n10 Basilosaurus Blubber\n10 Tusoteuthis Tentacle\n10 Yutyrannus Lungs\n15 Tyrannosaurus Arm\n2 Giganotosaurus Heart\n<TextStyle.Orange>Rewards</>:     440 Element,  Dragon Flag,  Dragon Trophy\nBeta rewards\nCloning Chamber          Tek Chestpiece           Tek Teleporter",
           "imageurl": "https://i.imgur.com/IIRSYu5.png"
+          }
+      },
+      {
+       "tab4": {
+          "layout": 4,
+          "buttontext": "<TextStyle.Green>Shiny Dinos</>",
+          "title1": "<TextStyle.Red>Enraged</>",
+          "title2": "<TextStyle.Yellow>Shinobi</>",
+          "title3": "<TextStyle.Yellow>Fathomless</>",
+          "title4": "<TextStyle.Yellow>Endurant</>",
+          "text1": "Watch out for the Enraged, or hunt them down.\n These dinos have all the dangers of an Alpha, but worse. They cannot be tamed, and they will be tough to conquer\n but if you can do it, you (and your chibi) will reap the rewards.\n (Bigger, stronger, tougher, faster. Enraged kills drop special loot, and kills will count towards chibi XP).",
+          "text2": "Shinobi dinos are especially sneaky.\n Predators will have to get very close before they will even notice the Shinobi, and if you are careful, you can ride right around a threat without being spotted.\n (Significantly reduced aggro range for wild dinos. That’s reduced— not none at all! Be careful!)",
+          "text3": "Fathomless dinos are blue, with nothing else to give away their special strength.\n Perhaps one of the most useful of the Shiny set, these dinos are bigger on the inside— the weight of anything in their inventory is reduced by 80%.",
+          "text4": "Endurant dinos may sport any Shiny colour, but that’s not all.\n These dinos can sprint indefinitely without losing stamina. (Attacks and any special abilities that would normally drain stamina will still do so.)",
+          "imageurl": "https://i.imgur.com/tZbCDJ7.png"
         }
       }
     ],
