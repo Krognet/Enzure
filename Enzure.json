@@ -89,10 +89,25 @@
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny Dinos</>",
           "title1": "<TextStyle.Yellow>Burning</>",
+          "title2": "<TextStyle.Yellow>Frozen</>",
+          "title3": "<TextStyle.Yellow>Spectral</>",
+          "title4": "<TextStyle.Yellow>Filthy/>",
+          "text1": "The bodies of Burning dinos are covered in constantly burning flames.\nThese animals are immune to damage from fire and lava, and can, if provoked, let loose with an explosion of fire that damages everything around it.\n(AoE special attack; default Melee key / Ctrl)",
+          "text2": "Frozen dinos are made of ice! It's ok-- the cold never bothered them anyway.\nTheir low internal temperature allows them to keep perishables fresh as long as a regular refrigerator.\nThey may move a bit more slowly, but they are tough.\nThey will take reduced damage from every attack— except fire.\nThey are especially vulnerable to flame.",
+          "text3": "Spectral dinos wander the Arks, tethered to the world of the living by some arcane energy.\nThese ghostly dinos are transparent and insubstantial, with an eerie spirit glow.\nThey can fall any distance without being hurt, and they walk in complete silence.\nInstead of pooping, they will gift you with random things channeled from the spirit plane in the form of spectral poop.\n(Yes, you can walk through them. No, you cannot walk them through walls into other people’s bases to blow up their stuff.\nStop that.)",
+          "text4": "Don’t be too quick to judge the Filthy dino.\nTheir awful stench may send you reeling, but if you can tame them, and if you clean them up, they may turn out to be your best friend.\n(Filthy dinos spawn in with an extra level boost, but you are going to have to work for it.\nSubmerge them fully in water to clean off the stink! Or gíve them a good scrubbing with some Soap, not everyone likes to take a bath!)",
+          "imageurl": "https://i.imgur.com/tZbCDJ7.png"
+          }
+      },
+      {
+       "tab4": {
+          "layout": 4,
+          "buttontext": "<TextStyle.Green>Shiny Dinos</>",
+          "title1": "<TextStyle.Yellow>Hardy, Stalwart, Inspired, Satiate, Hefty, Fierce and Refined</>",
           "title2": "",
           "title3": "",
           "title4": "",
-          "text1": "The bodies of Burning dinos are covered in constantly burning flames.\nThese animals are immune to damage from fire and lava, and can, if provoked, let loose with an explosion of fire that damages everything around it.\n(AoE special attack; default Melee key / Ctrl)",
+          "text1": "These dinos have developed a strength in one particular stat, which is more pronounced in their genes then in other dinos, which makes them quite desirable for breeding.\nThey have a higher chance to roll good values in their favored stat - before taming.\nHardy - Health\nStalwart - Stamina\nInspired - Oxygen\nSatiate - Food\nHefty - Weight\nFierce - Melee\nRefined - Lower speed, higher everything else",
           "text2": "More will come",
           "text3": "More will come",
           "text4": "More will come",
