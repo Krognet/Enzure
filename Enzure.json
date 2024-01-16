@@ -116,6 +116,21 @@
           "text3": "Holographic dinos have escaped a simulation and now roam the ARKs.\nThey grant their rider the ability to detect threats, identify their companions, and find precious high-level dinos for taming!",
           "text4": "Lunar Dinos manage to partially defy gravity, and move as if they are on the moon.\nJumping and bouncing in low gravity!",
           "imageurl": "https://i.imgur.com/tZbCDJ7.png"
+           }
+      },
+      {
+       "tab4": {
+          "layout": 4,
+          "buttontext": "<TextStyle.Green>Shiny Dinos</>",
+          "title1": "<TextStyle.Yellow>Tiny Shinies AKA Shoulder Pets</>",
+          "title2": "<TextStyle.Yellow>More to come</>",
+          "title3": "<TextStyle.Yellow>More to come</>",
+          "title4": "<TextStyle.Yellow>More to come</>",
+          "text1": "<TextStyle.Black>Bolstering</> - Reduces the weight of items in the player inventory\n<TextStyle.Black>Hydrating</> - Reduces water consumption\n<TextStyle.Black>Invigorating</> - Slowly restoring your stamina, even when moving or swimming\n<TextStyle.Black>Obscured</> - You are hidden from wild dinos, greatly reducing aggro range\n<TextStyle.Black>Pyrethrous</> - A natural insect repellent, 100% biological\n<TextStyle.Black>Revitalizing</> - Slowly restoring your health\n<TextStyle.Black>Serene</> - Pure Serenity allows you to focus your mind on crafting faster",
+          "text2": "",
+          "text3": "",
+          "text4": "",
+          "imageurl": "https://i.imgur.com/tZbCDJ7.png"
         }
       }
     ],
