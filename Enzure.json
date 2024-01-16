@@ -31,7 +31,7 @@
       {
         "tab2": {
           "layout": 4,
-          "buttontext": "<TextStyle.Orange>Broodmother Lysrix</>",
+          "buttontext": "<TextStyle.Orange>Broodmother</>",
           "title1": "<TextStyle.Yellow>Dinos and Artifacts</>",
           "title2": "<TextStyle.Green>Gamma</>",
           "title3": "<TextStyle.Blue>Beta</>",
@@ -76,7 +76,7 @@
       {
        "tab4": {
           "layout": 4,
-          "buttontext": "<TextStyle.Green>Shiny Dinos</>",
+          "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Red>Enraged</>",
           "title2": "<TextStyle.Orange>Shiny Essences!</>",
           "title3": "<TextStyle.Yellow>Fathomless</>",
@@ -91,7 +91,7 @@
       {
        "tab4": {
           "layout": 4,
-          "buttontext": "<TextStyle.Green>Shiny Dinos</>",
+          "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Yellow>Burning</>",
           "title2": "<TextStyle.Yellow>Frozen</>",
           "title3": "<TextStyle.Yellow>Spectral</>",
@@ -106,7 +106,7 @@
       {
        "tab4": {
           "layout": 4,
-          "buttontext": "<TextStyle.Green>Shiny Dinos</>",
+          "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Yellow>Hardy, Stalwart, Inspired, Satiate, Hefty, Fierce and Refined</>",
           "title2": "<TextStyle.Yellow>Shinobi</>",
           "title3": "<TextStyle.Yellow>Holographic</>",
@@ -121,7 +121,7 @@
       {
        "tab4": {
           "layout": 4,
-          "buttontext": "<TextStyle.Green>Shiny Dinos</>",
+          "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Yellow>Tiny Shinies AKA Shoulder Pets</>",
           "title2": "<TextStyle.Yellow>More to come</>",
           "title3": "<TextStyle.Yellow>More to come</>",
