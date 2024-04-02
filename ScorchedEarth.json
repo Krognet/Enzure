@@ -31,7 +31,7 @@
       {
         "tab2": {
           "layout": 4,
-          "buttontext": "<TextStyle.Orange>Broodmother</>",
+          "buttontext": "<TextStyle.Orange>Manticore</>",
           "title1": "<TextStyle.Yellow>Dinos and Artifacts</>",
           "title2": "<TextStyle.Green>Gamma</>",
           "title3": "<TextStyle.Blue>Beta</>",
@@ -41,36 +41,6 @@
           "text3": "<TextStyle.Orange>Req</>:\nArtifacts\n5 Argentavis Talon\n5 Sarcosuchus Skin\n5 Sauropod Vertebra\n5 Titanoboa Venom\n<TextStyle.Orange>Rewards</>:     56 Element,  Spider Flag,  Broodmother Trophy\nGamma rewards\nTek Roof                                 Tek Wall            Tek Sloped Wall\nTek Fence Foundation          Tek Ladder        Tek Pillar\nTek Quarter Wall                   Tek Boots",
           "text4": "<TextStyle.Orange>Req</>:\nArtifacts\n10 Argentavis Talon\n10 Sarcosuchus Skin\n10 Sauropod Vertebra\n10 Titanoboa Venom\n<TextStyle.Orange>Rewards</>:     148 Element,  Spider Flag,  Broodmother Trophy\nBeta rewards\nTek Helmet          Mosasaur Tek Saddle           Tek Turret",
           "imageurl": "https://i.imgur.com/xsrZ0nf.png"
-          }
-      },
-      {
-        "tab3": {
-          "layout": 4,
-          "buttontext": "<TextStyle.Orange>Megapithecus</>",
-          "title1": "<TextStyle.Yellow>Dinos and Artifacts</>",
-          "title2": "<TextStyle.Green>Gamma</>",
-          "title3": "<TextStyle.Blue>Beta</>",
-          "title4": "<TextStyle.Red>Alpha</>",
-          "text1": "<TextStyle.Orange>Best Choice</>:\n1 Yuturannus and 19 Ceratosaurus\n<TextStyle.Orange>Artifacts</>:\nArtifact of the Brute, Cords: 53.6/10.5\nArtifact of the Devourer, Cords: 10.8/90.4\nArtifact of the Pack, Cords: 68.2/56.2",
-          "text2": "<TextStyle.Orange>Req</>:\nOnly Artifacts\n<TextStyle.Orange>Rewards</>:     40 Element,  Gorilla Flag,  Megapithecus Trophy\nTek Replicator\nTek Doors\nTek Wall\nTek Ceiling\nTek Gauntlets.",
-          "text3": "<TextStyle.Orange>Req</>:\nArtifacts\n5 Megalania Toxin\n5 Megalodon Tooth\n5 Spinosaurus Sail\n5 Therizino Claws\n5 Thylacoleo Hook-Claw\n<TextStyle.Orange>Rewards</>:     110 Element,  Gorilla Flag,  Megapithecus Trophy\nGamma rewards\nTek Gate                                  Tek Gateway            Tek Rifle\nTek Generator",
-          "text4": "<TextStyle.Orange>Req</>:\nArtifacts\n10 Megalania Toxin\n10 Megalodon Tooth\n10 Spinosaurus Sail\n10 Therizino Claws\n10 Thylacoleo Hook-Claw\n<TextStyle.Orange>Rewards</>:     220 Element,  Gorille Flag,  Megapithecus Trophy\nBeta rewards\nTek Grenade          Rex Tek Saddle           Large Tek Wall",
-          "imageurl": "https://i.imgur.com/9YRTgZl.png"
-          }
-      },
-      {
-       "tab4": {
-          "layout": 4,
-          "buttontext": "<TextStyle.Orange>Dragon</>",
-          "title1": "<TextStyle.Yellow>Dinos and Artifacts</>",
-          "title2": "<TextStyle.Green>Gamma</>",
-          "title3": "<TextStyle.Blue>Beta</>",
-          "title4": "<TextStyle.Red>Alpha</>",
-          "text1": "<TextStyle.Orange>Good Choice</>:\n1 Yuturannus and 19 Rexes\n<TextStyle.Orange>Best Choice</>:\n1 Yuturannus 19 Therizinosaur, herbivores take less damage from the Dragons attacks (Not the fire breath)\n<TextStyle.Orange>Artifacts:</>\nArtifact of the Cunning, Cords: 45.9/88.9\nArtifact of the Immune, Cords: 62.7/37.3\nArtifact of the Skylord, Cords: 13.4/14.9\nArtifact of the Strong, Cords: 29.4/31.9",
-          "text2": "<TextStyle.Orange>Req</>:\nOnly Artifacts\n<TextStyle.Orange>Rewards</>:     80 Element,  Dragon Flag,  Dragon Trophy\nTek Replicator                   Small Tek Teleporter\nTek Behemoth Gate          Megalodon Tek Saddle\nTek Behemoth Gateway   Tapejara Tek Saddle\nTek Leggings",
-          "text3": "<TextStyle.Orange>Req</>:\nArtifacts\n5 Allosaurus Brain,   5 Tyrannosaurus Arm\n5 Basilosaurus Blubber,   5 Yutyrannus Lungs\n5 Tusoteuthis Tentacle\n1 Giganotosaurus Heart\n<TextStyle.Orange>Rewards</>:     220 Element,  Dragon Flag,  Dragon Trophy\nGamma rewards\nTek Fence Foundation           Tek Doors            Tek Forcefield\nTek Dedicated Storage          Tek Roof              Tek Transmitter\nVacuum Compartment",
-          "text4": "<TextStyle.Orange>Req</>:\nArtifacts\n10 Allosaurus Brain\n10 Basilosaurus Blubber\n10 Tusoteuthis Tentacle\n10 Yutyrannus Lungs\n15 Tyrannosaurus Arm\n2 Giganotosaurus Heart\n<TextStyle.Orange>Rewards</>:     440 Element,  Dragon Flag,  Dragon Trophy\nBeta rewards\nCloning Chamber          Tek Chestpiece           Tek Teleporter",
-          "imageurl": "https://i.imgur.com/IIRSYu5.png"
           }
       },
       {
@@ -107,28 +77,28 @@
        "tab4": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny</>",
-          "title1": "<TextStyle.Yellow>Hardy, Stalwart, Inspired, Satiate, Hefty, Fierce and Refined</>",
-          "title2": "<TextStyle.Yellow>Shinobi</>",
-          "title3": "<TextStyle.Yellow>Holographic</>",
-          "title4": "<TextStyle.Yellow>Lunar</>",
-          "text1": "These dinos have developed a strength in one particular stat, which is more pronounced in their genes then in other dinos, which makes them quite desirable for breeding.\nThey have a higher chance to roll good values in their favored stat before taming.\n<TextStyle.Black>Hardy</> - Health\n<TextStyle.Black>Stalwart</> - Stamina\n<TextStyle.Black>Inspired</> - Oxygen\n<TextStyle.Black>Satiate</> - Food\n<TextStyle.Black>Hefty</> - Weight\n<TextStyle.Black>Fierce</> - Melee\n<TextStyle.Black>Refined</> - Lower speed, higher everything else",
-          "text2": "Shinobi dinos are especially sneaky.\nPredators will have to get very close before they will even notice the Shinobi, and if you are careful, you can ride right around a threat without being spotted.\n(Significantly reduced aggro range for wild dinos. That’s reduced— not none at all! Be careful!)",
-          "text3": "Holographic dinos have escaped a simulation and now roam the ARKs.\nThey grant their rider the ability to detect threats, identify their companions, and find precious high-level dinos for taming!",
-          "text4": "Lunar Dinos manage to partially defy gravity, and move as if they are on the moon.\nJumping and bouncing in low gravity!",
+          "title1": "<TextStyle.Yellow>Tiny Shinies AKA Shoulder Pets</>",
+          "title2": "<TextStyle.Yellow>Skeletal</>",
+          "title3": "<TextStyle.Yellow>Taser</>",
+          "title4": "<TextStyle.Yellow>Rubber</>",
+          "text1": "<TextStyle.Black>Bolstering</> - Reduces the weight of items in the player inventory\n<TextStyle.Black>Hydrating</> - Reduces water consumption\n<TextStyle.Black>Invigorating</> - Slowly restoring your stamina, even when moving or swimming\n<TextStyle.Black>Obscured</> - You are hidden from wild dinos, greatly reducing aggro range\n<TextStyle.Black>Pyrethrous</> - A natural insect repellent, 100% biological\n<TextStyle.Black>Revitalizing</> - Slowly restoring your health\n<TextStyle.Black>Serene</> - Pure Serenity allows you to focus your mind on crafting faster",
+          "text2": "You may recognise Skeletal dinos from Fear Evolved. Shiny Skeletals are different.\nYou can tame them, and their unique physiognomy means you will never have to feed them.\nThey don’t breathe either, and they make the ultimate in tidy pets for the fastidious, as they do not poop.\nRanged weapons will have lesser effect on them, since most missiles will go right through them.",
+          "text3": "Taser Dinos have developed a natural defense mechanism based on electricity, and will periodically shock and stun any attackers.",
+          "text4": "Rubber dinos have a unique colorful pattern, oh and they bounce.. Just like a rubber ball!\nNo fall damage, bouncing, reflecting some melee attacks, all what you expect from a bouncy rubber dino.",
           "imageurl": "https://i.imgur.com/tZbCDJ7.png"
            }
-      },
+        },
       {
        "tab4": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny</>",
-          "title1": "<TextStyle.Yellow>Tiny Shinies AKA Shoulder Pets</>",
-          "title2": "<TextStyle.Yellow>More to come</>",
-          "title3": "<TextStyle.Yellow>More to come</>",
+          "title1": "<TextStyle.Yellow>Psychotropic</>",
+          "title2": "<TextStyle.Yellow>Dazzling</>",
+          "title3": "<TextStyle.Yellow>Pygmy & Colossal</>",
           "title4": "<TextStyle.Yellow>More to come</>",
-          "text1": "<TextStyle.Black>Bolstering</> - Reduces the weight of items in the player inventory\n<TextStyle.Black>Hydrating</> - Reduces water consumption\n<TextStyle.Black>Invigorating</> - Slowly restoring your stamina, even when moving or swimming\n<TextStyle.Black>Obscured</> - You are hidden from wild dinos, greatly reducing aggro range\n<TextStyle.Black>Pyrethrous</> - A natural insect repellent, 100% biological\n<TextStyle.Black>Revitalizing</> - Slowly restoring your health\n<TextStyle.Black>Serene</> - Pure Serenity allows you to focus your mind on crafting faster",
-          "text2": "",
-          "text3": "",
+          "text1": "Psychotropic is primarily a visual modification, with a few fun gags included.\nJust beware being bitten by them.\nAs a bonus they produce bio toxin in their inventory.",
+          "text2": "Dazzling dinos are very bright, colorful, and iridescent.\nTheir unique design reflects light in interesting ways.\nThey have a defensive ability to blind attackers while they try to escape, and are naturally immune to radiation.",
+          "text3": "<TextStyle.Black>Pygmys</>are smaller then average, but to offset that disadvantage they are a bit faster, so they can escape more quickly!\n\n<TextStyle.Black>Colossal</>dinos on the other hand are larger and stronger (increased health and melee damage), but slower and use more stamina.",
           "text4": "",
           "imageurl": "https://i.imgur.com/tZbCDJ7.png"
         }
