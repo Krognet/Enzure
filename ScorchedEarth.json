@@ -62,6 +62,21 @@
        "tab4": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny</>",
+          "title1": "<TextStyle.Yellow>Hardy, Stalwart, Inspired, Satiate, Hefty, Fierce and Refined</>",
+          "title2": "<TextStyle.Yellow>Shinobi</>",
+          "title3": "<TextStyle.Yellow>Holographic</>",
+          "title4": "<TextStyle.Yellow>Lunar</>",
+          "text1": "These dinos have developed a strength in one particular stat, which is more pronounced in their genes then in other dinos, which makes them quite desirable for breeding.\nThey have a higher chance to roll good values in their favored stat before taming.\n<TextStyle.Black>Hardy</> - Health\n<TextStyle.Black>Stalwart</> - Stamina\n<TextStyle.Black>Inspired</> - Oxygen\n<TextStyle.Black>Satiate</> - Food\n<TextStyle.Black>Hefty</> - Weight\n<TextStyle.Black>Fierce</> - Melee\n<TextStyle.Black>Refined</> - Lower speed, higher everything else",
+          "text2": "Shinobi dinos are especially sneaky.\nPredators will have to get very close before they will even notice the Shinobi, and if you are careful, you can ride right around a threat without being spotted.\n(Significantly reduced aggro range for wild dinos. That’s reduced— not none at all! Be careful!)",
+          "text3": "Holographic dinos have escaped a simulation and now roam the ARKs.\nThey grant their rider the ability to detect threats, identify their companions, and find precious high-level dinos for taming!",
+          "text4": "Lunar Dinos manage to partially defy gravity, and move as if they are on the moon.\nJumping and bouncing in low gravity!",
+          "imageurl": "https://i.imgur.com/tZbCDJ7.png"
+          }
+      },
+      {
+        "tab4": {
+          "layout": 4,
+          "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Yellow>Burning</>",
           "title2": "<TextStyle.Yellow>Frozen</>",
           "title3": "<TextStyle.Yellow>Spectral</>",
