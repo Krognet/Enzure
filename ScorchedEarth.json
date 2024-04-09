@@ -44,7 +44,7 @@
           }
       },
       {
-       "tab4": {
+       "tab3": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Red>Enraged</>",
@@ -74,7 +74,7 @@
           }
       },
       {
-        "tab4": {
+        "tab5": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Yellow>Burning</>",
@@ -89,7 +89,7 @@
           }
       },
       {
-       "tab4": {
+       "tab6": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Yellow>Tiny Shinies AKA Shoulder Pets</>",
@@ -104,7 +104,7 @@
            }
         },
       {
-       "tab4": {
+       "tab7": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Yellow>Psychotropic</>",
