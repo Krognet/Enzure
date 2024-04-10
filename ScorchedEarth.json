@@ -30,6 +30,15 @@
       },
       {
         "tab2": {
+          "layout": 1,
+          "buttontext": "<TextStyle.Orange>Manticore</>",
+          "title1": "<TextStyle.Yellow>Dinos, Artifacts and Loot</>",
+          "text1": "",
+          "imageurl": "https://i.imgur.com/3GDd0IB.jpg"
+          }
+      },
+      {
+        "tab2": {
           "layout": 4,
           "buttontext": "<TextStyle.Orange>Manticore</>",
           "title1": "<TextStyle.Yellow>Dinos, Artifacts and Loot</>",
@@ -44,7 +53,7 @@
           }
       },
       {
-       "tab3": {
+       "tab4": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Red>Enraged</>",
@@ -59,7 +68,7 @@
           }
       },
       {
-       "tab4": {
+       "tab5": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Yellow>Hardy, Stalwart, Inspired</>",
@@ -74,7 +83,7 @@
           }
       },
       {
-        "tab5": {
+        "tab6": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Yellow>Burning</>",
@@ -89,7 +98,7 @@
           }
       },
       {
-       "tab6": {
+       "tab7": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Yellow>Tiny Shinies AKA Shoulder Pets</>",
@@ -104,7 +113,7 @@
            }
         },
       {
-       "tab7": {
+       "tab8": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny</>",
           "title1": "<TextStyle.Yellow>Psychotropic</>",
