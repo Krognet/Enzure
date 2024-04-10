@@ -30,15 +30,17 @@
       },
       {
         "tab2": {
-          "layout": 1,
-          "buttontext": "<TextStyle.Orange>Manticore</>",
-          "title1": "<TextStyle.Yellow>Dinos, Artifacts and Loot</>",
+          "layout": 2,
+          "buttontext": "<TextStyle.Blue>Trading</>",
+          "title1": "<TextStyle.Green>Global Trading Post</>",
+          "title2": "<TextStyle.Green>Trading House</>",
           "text1": "",
-          "imageurl": "https://i.imgur.com/3GDd0IB.jpg"
+          "text2": "",
+          "imageurl": "https://imgur.com/Av6Vl8v.jpg"
           }
       },
       {
-        "tab2": {
+        "tab3": {
           "layout": 4,
           "buttontext": "<TextStyle.Orange>Manticore</>",
           "title1": "<TextStyle.Yellow>Dinos, Artifacts and Loot</>",
@@ -55,7 +57,7 @@
       {
        "tab4": {
           "layout": 4,
-          "buttontext": "<TextStyle.Green>Shiny</>",
+          "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
           "title1": "<TextStyle.Red>Enraged</>",
           "title2": "<TextStyle.Orange>Shiny Essences!</>",
           "title3": "<TextStyle.Yellow>Fathomless</>",
@@ -70,7 +72,7 @@
       {
        "tab5": {
           "layout": 4,
-          "buttontext": "<TextStyle.Green>Shiny</>",
+          "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
           "title1": "<TextStyle.Yellow>Hardy, Stalwart, Inspired</>",
           "title2": "<TextStyle.Yellow>Satiate, Hefty, Fierce and Refined</>",
           "title3": "<TextStyle.Yellow>Holographic</>",
@@ -85,7 +87,7 @@
       {
         "tab6": {
           "layout": 4,
-          "buttontext": "<TextStyle.Green>Shiny</>",
+          "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
           "title1": "<TextStyle.Yellow>Burning</>",
           "title2": "<TextStyle.Yellow>Frozen</>",
           "title3": "<TextStyle.Yellow>Spectral</>",
@@ -100,7 +102,7 @@
       {
        "tab7": {
           "layout": 4,
-          "buttontext": "<TextStyle.Green>Shiny</>",
+          "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
           "title1": "<TextStyle.Yellow>Tiny Shinies AKA Shoulder Pets</>",
           "title2": "<TextStyle.Yellow>Skeletal</>",
           "title3": "<TextStyle.Yellow>Taser</>",
@@ -115,7 +117,7 @@
       {
        "tab8": {
           "layout": 4,
-          "buttontext": "<TextStyle.Green>Shiny</>",
+          "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
           "title1": "<TextStyle.Yellow>Psychotropic</>",
           "title2": "<TextStyle.Yellow>Dazzling</>",
           "title3": "<TextStyle.Yellow>Pygmy & Colossal</>",
