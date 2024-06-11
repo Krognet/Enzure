@@ -44,7 +44,7 @@
            }
       },
       {
-       "tab4": {
+       "tab3": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
           "title1": "<TextStyle.Red>Enraged</>",
@@ -59,7 +59,7 @@
           }
       },
       {
-       "tab5": {
+       "tab4": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
           "title1": "<TextStyle.Yellow>Hardy, Stalwart, Inspired</>",
@@ -74,7 +74,7 @@
           }
       },
       {
-        "tab6": {
+        "tab5": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
           "title1": "<TextStyle.Yellow>Burning</>",
@@ -89,7 +89,7 @@
           }
       },
       {
-       "tab7": {
+       "tab6": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
           "title1": "<TextStyle.Yellow>Tiny Shinies AKA Shoulder Pets</>",
@@ -104,7 +104,7 @@
            }
         },
       {
-       "tab8": {
+       "tab7": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
           "title1": "<TextStyle.Yellow>Psychotropic</>",
