@@ -44,36 +44,6 @@
           }
       },
       {
-        "tab3": {
-          "layout": 4,
-          "buttontext": "<TextStyle.Orange>Megapithecus</>",
-          "title1": "<TextStyle.Yellow>Dinos and Artifacts</>",
-          "title2": "<TextStyle.Green>Gamma</>",
-          "title3": "<TextStyle.Blue>Beta</>",
-          "title4": "<TextStyle.Red>Alpha</>",
-          "text1": "<TextStyle.Orange>Best Choice</>:\n1 Yuturannus and 19 Ceratosaurus\n<TextStyle.Orange>Artifacts</>:\nArtifact of the Brute, Cords: 53.6/10.5\nArtifact of the Devourer, Cords: 10.8/90.4\nArtifact of the Pack, Cords: 68.2/56.2",
-          "text2": "<TextStyle.Orange>Req</>:\nOnly Artifacts\n<TextStyle.Orange>Rewards</>:     40 Element,  Gorilla Flag,  Megapithecus Trophy\nTek Replicator\nTek Doors\nTek Wall\nTek Ceiling\nTek Gauntlets.",
-          "text3": "<TextStyle.Orange>Req</>:\nArtifacts\n5 Megalania Toxin\n5 Megalodon Tooth\n5 Spinosaurus Sail\n5 Therizino Claws\n5 Thylacoleo Hook-Claw\n<TextStyle.Orange>Rewards</>:     110 Element,  Gorilla Flag,  Megapithecus Trophy\nGamma rewards\nTek Gate                                  Tek Gateway            Tek Rifle\nTek Generator",
-          "text4": "<TextStyle.Orange>Req</>:\nArtifacts\n10 Megalania Toxin\n10 Megalodon Tooth\n10 Spinosaurus Sail\n10 Therizino Claws\n10 Thylacoleo Hook-Claw\n<TextStyle.Orange>Rewards</>:     220 Element,  Gorille Flag,  Megapithecus Trophy\nBeta rewards\nTek Grenade          Rex Tek Saddle           Large Tek Wall",
-          "imageurl": "https://i.imgur.com/9YRTgZl.png"
-          }
-      },
-      {
-       "tab4": {
-          "layout": 4,
-          "buttontext": "<TextStyle.Orange>Dragon</>",
-          "title1": "<TextStyle.Yellow>Dinos and Artifacts</>",
-          "title2": "<TextStyle.Green>Gamma</>",
-          "title3": "<TextStyle.Blue>Beta</>",
-          "title4": "<TextStyle.Red>Alpha</>",
-          "text1": "<TextStyle.Orange>Good Choice</>:\n1 Yuturannus and 19 Rexes\n<TextStyle.Orange>Best Choice</>:\n1 Yuturannus 19 Therizinosaur, herbivores take less damage from the Dragons attacks (Not the fire breath)\n<TextStyle.Orange>Artifacts:</>\nArtifact of the Cunning, Cords: 45.9/88.9\nArtifact of the Immune, Cords: 62.7/37.3\nArtifact of the Skylord, Cords: 13.4/14.9\nArtifact of the Strong, Cords: 29.4/31.9",
-          "text2": "<TextStyle.Orange>Req</>:\nOnly Artifacts\n<TextStyle.Orange>Rewards</>:     80 Element,  Dragon Flag,  Dragon Trophy\nTek Replicator                   Small Tek Teleporter\nTek Behemoth Gate          Megalodon Tek Saddle\nTek Behemoth Gateway   Tapejara Tek Saddle\nTek Leggings",
-          "text3": "<TextStyle.Orange>Req</>:\nArtifacts\n5 Allosaurus Brain,   5 Tyrannosaurus Arm\n5 Basilosaurus Blubber,   5 Yutyrannus Lungs\n5 Tusoteuthis Tentacle\n1 Giganotosaurus Heart\n<TextStyle.Orange>Rewards</>:     220 Element,  Dragon Flag,  Dragon Trophy\nGamma rewards\nTek Fence Foundation           Tek Doors            Tek Forcefield\nTek Dedicated Storage          Tek Roof              Tek Transmitter\nVacuum Compartment",
-          "text4": "<TextStyle.Orange>Req</>:\nArtifacts\n10 Allosaurus Brain\n10 Basilosaurus Blubber\n10 Tusoteuthis Tentacle\n10 Yutyrannus Lungs\n15 Tyrannosaurus Arm\n2 Giganotosaurus Heart\n<TextStyle.Orange>Rewards</>:     440 Element,  Dragon Flag,  Dragon Trophy\nBeta rewards\nCloning Chamber          Tek Chestpiece           Tek Teleporter",
-          "imageurl": "https://i.imgur.com/IIRSYu5.png"
-          }
-      },
-      {
        "tab4": {
           "layout": 4,
           "buttontext": "<TextStyle.Green>Shiny</>",
