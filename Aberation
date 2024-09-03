@@ -1,1 +1,137 @@
-
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": true,
+        "HideIconAfter": 30,
+        "IconURL": "https://i.imgur.com/LQIt8DK.png",
+        "DisableIconText": false,
+        "IconPosition": 3,
+        "IconTextColor": 1,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 4,
+          "buttontext": "<TextStyle.Green>Enzure</>",
+          "title1": "<TextStyle.Yellow>Welcome</>",
+          "title2": "<TextStyle.Red>Rules</>",
+          "title3": "<TextStyle.Yellow>Server Events</>",
+          "title4": "<TextStyle.Green>Rates</>",
+          "text1": "Hi and Welcome to our small but humble community!\n\nI hope you like it here and enjoy your stay.\n\nIf you want to keep in touch with us or want any info regarding the server you got a Discord link right below\n\n- Admins:Krognet,Shaull,Molle",
+          "text2": "- Keep chat English/Swedish (Most of us are Swedish)\n- Be respectful to other users both here and on Discord\n- Listen to our Admins\n- Dont be a dick to people you dont know personally\n- Dont be racist, homophobic or sexist.\n- If you see anything or notice anything dont hesitate to contact any Admin on discord, there is a link below\n- Please take down traps when you are done\n- Dont block any caves or explorer notes\n- And please dont beg!",
+          "text3": "",
+          "text4": "WildDinoLvl=150\n- Xp=2x\n- Harvest=3x\n- Taming=4x\n- BabyMature=14x\n- EggHatch=10x\n- StackSize=20x",
+          "imageurl": "https://i.imgur.com/mzGMwKq.jpeg"
+           }
+      },
+      {
+        "tab2": {
+          "layout": 1,
+          "buttontext": "<TextStyle.Red>Boss</>",
+          "title1": "More Info Soon",
+          "text1": "This text goes into the box",
+          "imageurl": "https://i.imgur.com/xsrZ0nf.png"
+           }
+      },
+      {
+       "tab3": {
+          "layout": 4,
+          "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
+          "title1": "<TextStyle.Red>Enraged</>",
+          "title2": "<TextStyle.Orange>Shiny Essences!</>",
+          "title3": "<TextStyle.Yellow>Fathomless</>",
+          "title4": "<TextStyle.Yellow>Endurant</>",
+          "text1": "Watch out for the Enraged, or hunt them down.\nThese dinos have all the dangers of an Alpha, but worse.\nThey cannot be tamed, and they will be tough to conquer\nbut if you can do it, you (and your chibi) will reap the rewards.\n(Bigger, stronger, tougher, faster.\nEnraged kills drop special loot like kibble and also unlocks 1 random tek engram, kills will count towards chibi XP).",
+          "text2": "- Craft a Shiny Prod or Shiny Spear Bolts from Raw Essence, obtained from killing Enraged Shinies\n- Use the Shiny Prod or Bolts on a wild Shiny Dino, and kill it within 60 seconds to extract its essence\n- Essences can be applied to a dino of the same class (eg. both a Stego) to gain the Shiny buff\n- You can combine two essence on a dino, following the same rules as wild spawning (one visual, one ability)",
+          "text3": "Fathomless dinos are blue, with nothing else to give away their special strength.\nPerhaps one of the most useful of the Shiny set, these dinos are bigger on the inside— the weight of anything in their inventory is reduced by 80%.",
+          "text4": "Endurant dinos may sport any Shiny colour, but that’s not all.\nThese dinos can sprint indefinitely without losing stamina.\n(Attacks and any special abilities that would normally drain stamina will still do so.)",
+          "imageurl": "https://i.imgur.com/tZbCDJ7.png"
+          }
+      },
+      {
+       "tab4": {
+          "layout": 4,
+          "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
+          "title1": "<TextStyle.Yellow>Hardy, Stalwart, Inspired</>",
+          "title2": "<TextStyle.Yellow>Satiate, Hefty, Fierce and Refined</>",
+          "title3": "<TextStyle.Yellow>Holographic</>",
+          "title4": "<TextStyle.Yellow>Lunar</>",
+          "text1": "These dinos have developed a strength in one particular stat, which is more pronounced in their genes then in other dinos, which makes them quite desirable for breeding.\nThey have a higher chance to roll good values in their favored stat before taming.\n<TextStyle.Black>Hardy</> - Health\n<TextStyle.Black>Stalwart</> - Stamina\n<TextStyle.Black>Inspired</> - Oxygen\n<TextStyle.Black>Satiate</> - Food",
+          "text2": "These dinos have developed a strength in one particular stat, which is more pronounced in their genes then in other dinos, which makes them quite desirable for breeding.\nThey have a higher chance to roll good values in their favored stat before taming.\n<TextStyle.Black>Hefty</> - Weight\n<TextStyle.Black>Fierce</> - Melee\n<TextStyle.Black>Refined</> - Lower speed, higher everything else",
+          "text3": "Holographic dinos have escaped a simulation and now roam the ARKs.\nThey grant their rider the ability to detect threats, identify their companions, and find precious high-level dinos for taming!",
+          "text4": "Lunar Dinos manage to partially defy gravity, and move as if they are on the moon.\nJumping and bouncing in low gravity!",
+          "imageurl": "https://i.imgur.com/tZbCDJ7.png"
+          }
+      },
+      {
+        "tab5": {
+          "layout": 4,
+          "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
+          "title1": "<TextStyle.Yellow>Burning</>",
+          "title2": "<TextStyle.Yellow>Frozen</>",
+          "title3": "<TextStyle.Yellow>Spectral</>",
+          "title4": "<TextStyle.Yellow>Filthy</>",
+          "text1": "The bodies of Burning dinos are covered in constantly burning flames.\nThese animals are immune to damage from fire and lava, and can, if provoked, let loose with an explosion of fire that damages everything around it.\n(AoE special attack; default Melee key / Ctrl)",
+          "text2": "Frozen dinos are made of ice! It's ok-- the cold never bothered them anyway.\nTheir low internal temperature allows them to keep perishables fresh as long as a regular refrigerator.\nThey may move a bit more slowly, but they are tough.\nThey will take reduced damage from every attack— except fire.\nThey are especially vulnerable to flame.",
+          "text3": "Spectral dinos wander the Arks, tethered to the world of the living by some arcane energy.\nThese ghostly dinos are transparent and insubstantial, with an eerie spirit glow.\nThey can fall any distance without being hurt, and they walk in complete silence.\nInstead of pooping, they will gift you with random things channeled from the spirit plane in the form of spectral poop.\n(Yes, you can walk through them. No, you cannot walk them through walls into other people’s bases to blow up their stuff.\nStop that.)",
+          "text4": "Don’t be too quick to judge the Filthy dino.\nTheir awful stench may send you reeling, but if you can tame them, and if you clean them up, they may turn out to be your best friend.\n(Filthy dinos spawn in with an extra level boost, but you are going to have to work for it.\nSubmerge them fully in water to clean off the stink! Or gíve them a good scrubbing with some Soap, not everyone likes to take a bath!)",
+          "imageurl": "https://i.imgur.com/tZbCDJ7.png"
+          }
+      },
+      {
+       "tab6": {
+          "layout": 4,
+          "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
+          "title1": "<TextStyle.Yellow>Tiny Shinies AKA Shoulder Pets</>",
+          "title2": "<TextStyle.Yellow>Skeletal</>",
+          "title3": "<TextStyle.Yellow>Taser</>",
+          "title4": "<TextStyle.Yellow>Rubber</>",
+          "text1": "<TextStyle.Black>Bolstering</> - Reduces the weight of items in the player inventory\n<TextStyle.Black>Hydrating</> - Reduces water consumption\n<TextStyle.Black>Invigorating</> - Slowly restoring your stamina, even when moving or swimming\n<TextStyle.Black>Obscured</> - You are hidden from wild dinos, greatly reducing aggro range\n<TextStyle.Black>Pyrethrous</> - A natural insect repellent, 100% biological\n<TextStyle.Black>Revitalizing</> - Slowly restoring your health\n<TextStyle.Black>Serene</> - Pure Serenity allows you to focus your mind on crafting faster",
+          "text2": "You may recognise Skeletal dinos from Fear Evolved. Shiny Skeletals are different.\nYou can tame them, and their unique physiognomy means you will never have to feed them.\nThey don’t breathe either, and they make the ultimate in tidy pets for the fastidious, as they do not poop.\nRanged weapons will have lesser effect on them, since most missiles will go right through them.",
+          "text3": "Taser Dinos have developed a natural defense mechanism based on electricity, and will periodically shock and stun any attackers.",
+          "text4": "Rubber dinos have a unique colorful pattern, oh and they bounce.. Just like a rubber ball!\nNo fall damage, bouncing, reflecting some melee attacks, all what you expect from a bouncy rubber dino.",
+          "imageurl": "https://i.imgur.com/tZbCDJ7.png"
+           }
+        },
+      {
+       "tab7": {
+          "layout": 4,
+          "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
+          "title1": "<TextStyle.Yellow>Psychotropic</>",
+          "title2": "<TextStyle.Yellow>Dazzling</>",
+          "title3": "<TextStyle.Yellow>Pygmy & Colossal</>",
+          "title4": "<TextStyle.Yellow>Shinobi</>",
+          "text1": "Psychotropic is primarily a visual modification, with a few fun gags included.\nJust beware being bitten by them.\nAs a bonus they produce bio toxin in their inventory.",
+          "text2": "Dazzling dinos are very bright, colorful, and iridescent.\nTheir unique design reflects light in interesting ways.\nThey have a defensive ability to blind attackers while they try to escape, and are naturally immune to radiation.",
+          "text3": "<TextStyle.Black>Pygmys</>are smaller then average, but to offset that disadvantage they are a bit faster, so they can escape more quickly!\n\n<TextStyle.Black>Colossal</>dinos on the other hand are larger and stronger (increased health and melee damage), but slower and use more stamina.",
+          "text4": "Shinobi dinos are especially sneaky.\nPredators will have to get very close before they will even notice the Shinobi, and if you are careful, you can ride right around a threat without being spotted.\n(Significantly reduced aggro range for wild dinos. That’s reduced— not none at all! Be careful!)",
+          "imageurl": "https://i.imgur.com/tZbCDJ7.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "<TextStyle.Yellow>Discord</>",
+          "url": "https://discord.gg/SXDdPxq"
+        }
+      },
+      {
+        "link2": {
+          "text": "<TextStyle.Green>Ark Wiki</>",
+          "url": "https://ark.wiki.gg/wiki/ARK_Wiki"
+         }
+      },
+      {
+        "link2": {
+          "text": "<TextStyle.Blue>Addition Wiki</>",
+          "url": "https://ark.wiki.gg/wiki/Mod:ARK_Additions"
+        }
+      }
+    ]
+  }
+}
