@@ -21,10 +21,10 @@
           "title2": "<TextStyle.Red>Rules</>",
           "title3": "<TextStyle.Yellow>Server Events</>",
           "title4": "<TextStyle.Green>Rates</>",
-          "text1": "Hi and Welcome to our small but humble community!\n\nI hope you like it here and enjoy your stay.\n\nIf you want to keep in touch with us or want any info regarding the server you got a Discord link right below\n\n- Admins:Krognet,Shaull,Molle",
+          "text1": "Hi and Welcome to our small but humble community!\n\nI hope you like it here and enjoy your stay.\n\nIf you want to keep in touch with us or want any info regarding the server you got a Discord link right below\n\n- Admins:Krognet,Shaull,Molle,Pepper",
           "text2": "- Keep chat English/Swedish (Most of us are Swedish)\n- Be respectful to other users both here and on Discord\n- Listen to our Admins\n- Dont be a dick to people you dont know personally\n- Dont be racist, homophobic or sexist.\n- If you see anything or notice anything dont hesitate to contact any Admin on discord, there is a link below\n- Please take down traps when you are done\n- Dont block any caves or explorer notes\n- And please dont beg!",
           "text3": "",
-          "text4": "WildDinoLvl=150\n- Xp=2x\n- Harvest=3x\n- Taming=4x\n- BabyMature=14x\n- EggHatch=10x\n- StackSize=20x",
+          "text4": "WildDinoLvl=150\n- Xp=3x\n- Harvest=5x\n- Taming=5x\n- BabyMature=20x\n- EggHatch=30x\n- StackSize=50x",
           "imageurl": "https://i.imgur.com/mzGMwKq.jpeg"
            }
       },
@@ -96,7 +96,7 @@
           "text4": "Rubber dinos have a unique colorful pattern, oh and they bounce.. Just like a rubber ball!\nNo fall damage, bouncing, reflecting some melee attacks, all what you expect from a bouncy rubber dino.",
           "imageurl": "https://i.imgur.com/tZbCDJ7.png"
            }
-        },
+      },
       {
        "tab7": {
           "layout": 4,
@@ -109,6 +109,21 @@
           "text2": "Dazzling dinos are very bright, colorful, and iridescent.\nTheir unique design reflects light in interesting ways.\nThey have a defensive ability to blind attackers while they try to escape, and are naturally immune to radiation.",
           "text3": "<TextStyle.Black>Pygmys</>are smaller then average, but to offset that disadvantage they are a bit faster, so they can escape more quickly!\n\n<TextStyle.Black>Colossal</>dinos on the other hand are larger and stronger (increased health and melee damage), but slower and use more stamina.",
           "text4": "Shinobi dinos are especially sneaky.\nPredators will have to get very close before they will even notice the Shinobi, and if you are careful, you can ride right around a threat without being spotted.\n(Significantly reduced aggro range for wild dinos. That’s reduced— not none at all! Be careful!)",
+          "imageurl": "https://i.imgur.com/tZbCDJ7.png"
+          }
+      },
+      {
+       "tab8": {
+          "layout": 4,
+          "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
+          "title1": "<TextStyle.Yellow>Radioactive</>",
+          "title2": "<TextStyle.Yellow>Nightmare</>",
+          "title3": "<TextStyle.Yellow>More will come</>",
+          "title4": "<TextStyle.Yellow>More Will come</>",
+          "text1": "Radioactive dinos are dangerous, but rewarding. Their radiation pulse boosts the mutation chance of babies by about 3x (does not stack with itself or other mutation increases, except mutation gene traits).",
+          "text2": "Nightmare dinos are pitch black, except of their creepy white eyes. They suck all heat from their surrounding, giving you a chill. When tamed, they occasionally poop black pearls.",
+          "text3": "",
+          "text4": "",
           "imageurl": "https://i.imgur.com/tZbCDJ7.png"
         }
       }
