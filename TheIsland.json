@@ -80,7 +80,7 @@
           "title1": "<TextStyle.Red>Enraged</>",
           "title2": "<TextStyle.Orange>Shiny Essences!</>",
           "title3": "<TextStyle.Yellow>Shinys</>",
-          "title4": "<TextStyle.Yellow>Endurant</>",
+          "title4": "<TextStyle.Yellow></>",
           "text1": "Watch out for the Enraged, or hunt them down.\nThese dinos have all the dangers of an Alpha, but worse.\nThey cannot be tamed, and they will be tough to conquer\nbut if you can do it, you (and your chibi) will reap the rewards.\n(Bigger, stronger, tougher, faster.\nEnraged kills drop special loot like kibble and also unlocks 1 random tek engram, kills will count towards chibi XP).",
           "text2": "- Craft a Shiny Prod or Shiny Spear Bolts from Raw Essence, obtained from killing Enraged Shinies\n- Use the Shiny Prod or Bolts on a wild Shiny Dino, and kill it within 60 seconds to extract its essence\n- Essences can be applied to a dino of the same class (eg. both a Stego) to gain the Shiny buff\n- You can combine two essence on a dino, following the same rules as wild spawning (one visual, one ability)",
           "text3": "Shiny dinos can spawn with 1 or more special powers. \nThey can be tamed just like a normal dino and they will keep their special powers when doing so. \nYou can find a link to all the powers and what they do at the bottom.",
@@ -104,7 +104,7 @@
       },
       {
         "link3": {
-          "text": "<TextStyle.Blue>Shiny Wiki</>",
+          "text": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</><TextStyle.Red>W</><TextStyle.Green>i</><TextStyle.Orange>k</><TextStyle.Blue>i</>",
           "url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
         }
       }
