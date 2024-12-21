@@ -104,7 +104,7 @@
       },
       {
         "link3": {
-          "text": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</><TextStyle.Red>W</><TextStyle.Green>i</><TextStyle.Orange>k</><TextStyle.Blue>i</>",
+          "text": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</> <TextStyle.Red>W</><TextStyle.Green>i</><TextStyle.Orange>k</><TextStyle.Blue>i</>",
           "url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
         }
       }
