@@ -15,78 +15,16 @@
     "tabs": [
       {
         "tab1": {
-          "layout": 4,
+          "layout": 3,
           "buttontext": "<TextStyle.Green>Enzure</>",
           "title1": "<TextStyle.Yellow>Welcome</>",
           "title2": "<TextStyle.Red>Rules</>",
-          "title3": "<TextStyle.Yellow>Server Events</>",
-          "title4": "<TextStyle.Green>Rates</>",
-          "text1": "Hi and Welcome to our small but humble community!\n\nI hope you like it here and enjoy your stay.\n\nIf you want to keep in touch with us or want any info regarding the server you got a Discord link right below\n\n- Admins:Krognet,Shaull,Molle,Pepper",
-          "text2": "- Keep chat English/Swedish (Most of us are Swedish)\n- Be respectful to other users both here and on Discord\n- Listen to mods\n- Dont be a dick to people you dont know personally\n- Dont be racist, homophobic or sexist keep that to your friend group.\n- Please take down traps when you are done\n- Dont block any caves or explorer notes\n- Please dont beg! \n- If you see anything or notice anything dont hesitate to contact any admin on our discord, there is a link below",
-          "text3": "",
-          "text4": "WildDinoLvl=150\n- Xp=3x\n- Harvest=5x\n- Taming=5x\n- BabyMature=20x\n- EggHatch=30x\n- StackSize=50x",
+          "title3": "<TextStyle.Green>Rates</>",
+          "text1": "Hi and Welcome to our small but humble community!\n\nI hope you like it here and enjoy your stay.\n\nIf you want to keep in touch with us or want any info regarding the server you got a Discord link right below\n\n- Admins:Krognet\nShaull\nMolle\nPepper",
+          "text2": "- Keep chat English/Swedish (Most of us are Swedish)\n- Be respectful to other users both here and on Discord\n- Listen to mods\n- Dont be a dick to people you dont know personally\n- Dont be racist, homophobic or sexist\n- Please take down traps when you are done\n- Dont block any caves or explorer notes\n- Please dont beg! \n- If you see anything or notice anything dont hesitate to contact any admin on our discord, there is a link below", 
+          "text3": "WildDinoLvl=Up to 300\n- Xp=5x\n- Harvest=10x\n- Taming=10x\n- BabyMature=20x\n- EggHatch=40x\n- ",
           "imageurl": "https://i.imgur.com/mzGMwKq.jpeg"
            }
-      },
-      {
-        "tab2": {
-          "layout": 4,
-          "buttontext": "<TextStyle.Orange>Broodmother</>",
-          "title1": "<TextStyle.Yellow>Dinos and Artifacts</>",
-          "title2": "<TextStyle.Green>Gamma</>",
-          "title3": "<TextStyle.Blue>Beta</>",
-          "title4": "<TextStyle.Red>Alpha</>",
-          "text1": "<TextStyle.Orange>Best Choice</>:\n1 Yuturannus and 19 Ceratosaurus\n<TextStyle.Orange>Artifacts:</>\nArtifact of the Clever, Cords: 41.5/47.1\nArtifact of the Hunter, Cords: 80.2/52.5\nArtifact of the Massive, Cords: 74.5/91",
-          "text2": "<TextStyle.Orange>Req</>:\nOnly Artifacts\n<TextStyle.Orange>Rewards</>:     20 Element,  Spider Flag,  Broodmother Trophy\nTek Replicator\nTek Foundation Foundation\nTek Quarter Ceiling\nTek Triangle Roof.",
-          "text3": "<TextStyle.Orange>Req</>:\nArtifacts\n5 Argentavis Talon\n5 Sarcosuchus Skin\n5 Sauropod Vertebra\n5 Titanoboa Venom\n<TextStyle.Orange>Rewards</>:     56 Element,  Spider Flag,  Broodmother Trophy\nGamma rewards\nTek Roof                                 Tek Wall            Tek Sloped Wall\nTek Fence Foundation          Tek Ladder        Tek Pillar\nTek Quarter Wall                   Tek Boots",
-          "text4": "<TextStyle.Orange>Req</>:\nArtifacts\n10 Argentavis Talon\n10 Sarcosuchus Skin\n10 Sauropod Vertebra\n10 Titanoboa Venom\n<TextStyle.Orange>Rewards</>:     148 Element,  Spider Flag,  Broodmother Trophy\nBeta rewards\nTek Helmet          Mosasaur Tek Saddle           Tek Turret",
-          "imageurl": "https://i.imgur.com/xsrZ0nf.png"
-          }
-      },
-      {
-        "tab3": {
-          "layout": 4,
-          "buttontext": "<TextStyle.Orange>Megapithecus</>",
-          "title1": "<TextStyle.Yellow>Dinos and Artifacts</>",
-          "title2": "<TextStyle.Green>Gamma</>",
-          "title3": "<TextStyle.Blue>Beta</>",
-          "title4": "<TextStyle.Red>Alpha</>",
-          "text1": "<TextStyle.Orange>Best Choice</>:\n1 Yuturannus and 19 Ceratosaurus\n<TextStyle.Orange>Artifacts</>:\nArtifact of the Brute, Cords: 53.6/10.5\nArtifact of the Devourer, Cords: 10.8/90.4\nArtifact of the Pack, Cords: 68.2/56.2",
-          "text2": "<TextStyle.Orange>Req</>:\nOnly Artifacts\n<TextStyle.Orange>Rewards</>:     40 Element,  Gorilla Flag,  Megapithecus Trophy\nTek Replicator\nTek Doors\nTek Wall\nTek Ceiling\nTek Gauntlets.",
-          "text3": "<TextStyle.Orange>Req</>:\nArtifacts\n5 Megalania Toxin\n5 Megalodon Tooth\n5 Spinosaurus Sail\n5 Therizino Claws\n5 Thylacoleo Hook-Claw\n<TextStyle.Orange>Rewards</>:     110 Element,  Gorilla Flag,  Megapithecus Trophy\nGamma rewards\nTek Gate                                  Tek Gateway            Tek Rifle\nTek Generator",
-          "text4": "<TextStyle.Orange>Req</>:\nArtifacts\n10 Megalania Toxin\n10 Megalodon Tooth\n10 Spinosaurus Sail\n10 Therizino Claws\n10 Thylacoleo Hook-Claw\n<TextStyle.Orange>Rewards</>:     220 Element,  Gorille Flag,  Megapithecus Trophy\nBeta rewards\nTek Grenade          Rex Tek Saddle           Large Tek Wall",
-          "imageurl": "https://i.imgur.com/9YRTgZl.png"
-          }
-      },
-      {
-       "tab4": {
-          "layout": 4,
-          "buttontext": "<TextStyle.Orange>Dragon</>",
-          "title1": "<TextStyle.Yellow>Dinos and Artifacts</>",
-          "title2": "<TextStyle.Green>Gamma</>",
-          "title3": "<TextStyle.Blue>Beta</>",
-          "title4": "<TextStyle.Red>Alpha</>",
-          "text1": "<TextStyle.Orange>Good Choice</>:\n1 Yuturannus and 19 Rexes\n<TextStyle.Orange>Best Choice</>:\n1 Yuturannus 19 Therizinosaur, herbivores take less damage from the Dragons attacks (Not the fire breath)\n<TextStyle.Orange>Artifacts:</>\nArtifact of the Cunning, Cords: 45.9/88.9\nArtifact of the Immune, Cords: 62.7/37.3\nArtifact of the Skylord, Cords: 13.4/14.9\nArtifact of the Strong, Cords: 29.4/31.9",
-          "text2": "<TextStyle.Orange>Req</>:\nOnly Artifacts\n<TextStyle.Orange>Rewards</>:     80 Element,  Dragon Flag,  Dragon Trophy\nTek Replicator                   Small Tek Teleporter\nTek Behemoth Gate          Megalodon Tek Saddle\nTek Behemoth Gateway   Tapejara Tek Saddle\nTek Leggings",
-          "text3": "<TextStyle.Orange>Req</>:\nArtifacts\n5 Allosaurus Brain,   5 Tyrannosaurus Arm\n5 Basilosaurus Blubber,   5 Yutyrannus Lungs\n5 Tusoteuthis Tentacle\n1 Giganotosaurus Heart\n<TextStyle.Orange>Rewards</>:     220 Element,  Dragon Flag,  Dragon Trophy\nGamma rewards\nTek Fence Foundation           Tek Doors            Tek Forcefield\nTek Dedicated Storage          Tek Roof              Tek Transmitter\nVacuum Compartment",
-          "text4": "<TextStyle.Orange>Req</>:\nArtifacts\n10 Allosaurus Brain\n10 Basilosaurus Blubber\n10 Tusoteuthis Tentacle\n10 Yutyrannus Lungs\n15 Tyrannosaurus Arm\n2 Giganotosaurus Heart\n<TextStyle.Orange>Rewards</>:     440 Element,  Dragon Flag,  Dragon Trophy\nBeta rewards\nCloning Chamber          Tek Chestpiece           Tek Teleporter",
-          "imageurl": "https://i.imgur.com/IIRSYu5.png"
-          }
-      },
-      {
-       "tab5": {
-          "layout": 4,
-          "buttontext": "<TextStyle.Green>S</><TextStyle.Blue>h</><TextStyle.Red>i</><TextStyle.Yellow>n</><TextStyle.Orange>y</>",
-          "title1": "<TextStyle.Red>Enraged</>",
-          "title2": "<TextStyle.Orange>Shiny Essences!</>",
-          "title3": "<TextStyle.Yellow>Shinys</>",
-          "title4": "<TextStyle.Yellow></>",
-          "text1": "Watch out for the Enraged, or hunt them down.\nThese dinos have all the dangers of an Alpha, but worse.\nThey cannot be tamed, and they will be tough to conquer\nbut if you can do it, you (and your chibi) will reap the rewards.\n(Bigger, stronger, tougher, faster.\nEnraged kills drop special loot like kibble and also unlocks 1 random tek engram, kills will count towards chibi XP).",
-          "text2": "- Craft a Shiny Prod or Shiny Spear Bolts from Raw Essence, obtained from killing Enraged Shinies\n- Use the Shiny Prod or Bolts on a wild Shiny Dino, and kill it within 60 seconds to extract its essence\n- Essences can be applied to a dino of the same class (eg. both a Stego) to gain the Shiny buff\n- You can combine two essence on a dino, following the same rules as wild spawning (one visual, one ability)",
-          "text3": "Shiny dinos can spawn with 1 or more special powers. \nThey can be tamed just like a normal dino and they will keep their special powers when doing so. \nYou can find a link to all the powers and what they do at the bottom.",
-          "text4": "",
-          "imageurl": "https://i.imgur.com/tZbCDJ7.png"
-        }
       }
     ],
     "links": [
@@ -98,7 +36,7 @@
       },
       {
         "link2": {
-          "text": "<TextStyle.Blue>Ark Wiki</>",
+          "text": "<TextStyle.Orange>Ark Wiki</>",
           "url": "https://ark.wiki.gg/wiki/ARK_Wiki"       
         }
       },
